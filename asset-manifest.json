@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/contact-manager-redux/static/css/main.b1efc8f5.chunk.css",
+    "main.js": "/contact-manager-redux/static/js/main.cad99899.chunk.js",
+    "main.js.map": "/contact-manager-redux/static/js/main.cad99899.chunk.js.map",
+    "runtime-main.js": "/contact-manager-redux/static/js/runtime-main.97d7644d.js",
+    "runtime-main.js.map": "/contact-manager-redux/static/js/runtime-main.97d7644d.js.map",
+    "static/css/2.725f6fc8.chunk.css": "/contact-manager-redux/static/css/2.725f6fc8.chunk.css",
+    "static/js/2.5371cecc.chunk.js": "/contact-manager-redux/static/js/2.5371cecc.chunk.js",
+    "static/js/2.5371cecc.chunk.js.map": "/contact-manager-redux/static/js/2.5371cecc.chunk.js.map",
+    "index.html": "/contact-manager-redux/index.html",
+    "precache-manifest.3b81f4709c36d1e4bd8e6f7079adf00f.js": "/contact-manager-redux/precache-manifest.3b81f4709c36d1e4bd8e6f7079adf00f.js",
+    "service-worker.js": "/contact-manager-redux/service-worker.js",
+    "static/css/2.725f6fc8.chunk.css.map": "/contact-manager-redux/static/css/2.725f6fc8.chunk.css.map",
+    "static/css/main.b1efc8f5.chunk.css.map": "/contact-manager-redux/static/css/main.b1efc8f5.chunk.css.map",
+    "static/js/2.5371cecc.chunk.js.LICENSE.txt": "/contact-manager-redux/static/js/2.5371cecc.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/contact-manager-redux/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d7644d.js",
+    "static/css/2.725f6fc8.chunk.css",
+    "static/js/2.5371cecc.chunk.js",
+    "static/css/main.b1efc8f5.chunk.css",
+    "static/js/main.cad99899.chunk.js"
+  ]
+}
